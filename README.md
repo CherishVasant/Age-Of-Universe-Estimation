@@ -22,13 +22,13 @@ The project includes data preprocessing, Hubble diagram visualization, cosmologi
 
 The analysis produced the following best-fit cosmological parameters:
 
-- \(H_0 = 72.97 \pm 0.26\) km/s/Mpc
-- \(\Omega_m = 0.351 \pm 0.019\)
-- Estimated Age of Universe ≈ \(12.36\) Gyr
+- H₀ = 72.97 ± 0.26 km/s/Mpc
+- Ωₘ = 0.351 ± 0.019
+- Estimated Age of Universe ≈ 12.36 Gyr
 
-When fixing \(\Omega_m = 0.3\), the fitted Hubble Constant becomes:
+When fixing Ωₘ = 0.3:
 
-- \(H_0 = 73.53 \pm 0.17\) km/s/Mpc
+- H₀ = 73.53 ± 0.17 km/s/Mpc
 
 The project results are consistent with local universe measurements and also reflect the well-known Hubble tension between late-universe and early-universe cosmological observations.
 
