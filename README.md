@@ -1,6 +1,6 @@
 # Measuring Cosmological Parameters Using Type Ia Supernovae
 
-This project analyzes the Pantheon+SH0ES Type Ia Supernova dataset using the flat ΛCDM cosmological model to estimate key cosmological parameters such as the Hubble Constant (\(H_0\)), matter density parameter (\(\Omega_m\)), and the age of the universe through observational data fitting, numerical integration, and statistical analysis.
+This project analyzes the Pantheon+SH0ES Type Ia Supernova dataset using the flat ΛCDM cosmological model to estimate key cosmological parameters such as the Hubble Constant (H₀), matter density parameter (Ωₘ), and the age of the universe through observational data fitting, numerical integration, and statistical analysis.
 
 The project includes data preprocessing, Hubble diagram visualization, cosmological model fitting, χ² parameter estimation, residual analysis, and comparison between low-redshift and high-redshift supernova samples to study possible variations in the inferred expansion rate of the universe.
 
@@ -9,12 +9,12 @@ The project includes data preprocessing, Hubble diagram visualization, cosmologi
 - Hubble Diagram (Distance Modulus vs Redshift)
 - Flat ΛCDM Cosmological Modeling
 - Estimation of:
-  - Hubble Constant (\(H_0\))
-  - Matter Density Parameter (\(\Omega_m\))
+  - Hubble Constant (H₀)
+  - Matter Density Parameter (Ωₘ)
   - Age of the Universe
 - χ² Contour and Parameter Space Analysis
 - Residual and Uncertainty Analysis
-- Fixed \(\Omega_m\) Fitting
+- Fixed Ωₘ Fitting
 - Low-z vs High-z Comparison
 - Additional Cosmological Expansion Visualizations
 
